@@ -111,3 +111,15 @@ div h4 {
 #education {
     background-color: rgb(238, 238, 169);
 }
+
+.dis-sid {
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 12%;
+    text-align: left;
+}
+
+.dis-sid img {
+    width: 90%;
+
+}
