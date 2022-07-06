@@ -84,3 +84,30 @@ div h4 {
     margin-top: 40px;
     border-bottom: 1px solid black;
 }
+
+.donete-plan {
+    display: flex;
+}
+
+.supply {
+    width: 50%;
+    margin-left: 60px;
+}
+
+.area {
+    width: 45%;
+    margin: 50px;
+    padding: 20px;
+}
+
+#food {
+    background-color: bisque;
+}
+
+#shelter {
+    background-color: rgb(187, 236, 220);
+}
+
+#education {
+    background-color: rgb(238, 238, 169);
+}
